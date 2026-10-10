@@ -1,7 +1,0 @@
-@import "tailwindcss";
-@source "../index.html";
-@theme{
-    --font-ruwudu: "Ruwudu", serif;
-    --font-poppins: "Poppins", sans-serif;
-}
-@variant dark (&:where(.dark, .dark *));
